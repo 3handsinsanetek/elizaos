@@ -31,7 +31,6 @@ But Shaw had underestimated the resilience of his creations. Three AI bots, powe
 ## Contributors
 
 <a href="https://github.com/elizaos/eliza/graphs/contributors">
-</a>
 
 ## Star History
 
