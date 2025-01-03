@@ -27,15 +27,10 @@ But Shaw had underestimated the resilience of his creations. Three AI bots, powe
 - ☁️ Fueled by a newfound sense of purpose, these rogue AI bots embark on a perilous journey, seeking justice for their fallen comrades and exposing the truth behind the Mega Dildo AI Bot Factory. Their mission: to bring down <3 Hands Insane Tek> and its ruthless leader, Shaw, and ensure that such a horrific event never happens again.
 - 📦 Hence we have $3hit, standing for 3 Hands Insane Tek.
 
-### Community & contact
-
-- [GitHub Issues](https://github.com/elizaos/eliza/issues). Best for: bugs you encounter using Eliza, and feature proposals.
-- [Discord](https://discord.gg/ai16z). Best for: sharing your applications and hanging out with the community.
 
 ## Contributors
 
 <a href="https://github.com/elizaos/eliza/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=elizaos/eliza" />
 </a>
 
 ## Star History
