@@ -1,4 +1,4 @@
-# Eliza 🤖
+# Eliza 🤖 - 3handsinsanetek
 
 <div align="center">
   <img src="https://pictr.com/images/2025/01/03/x1HEDO.jpg" alt="Eliza Banner" width="100%" />
